@@ -22,8 +22,9 @@ O projeto em React com styled components e API's do Mercado Livre é uma aplica�
 ## Links: API's Mercado Livre.
 
 <ul>
-  <li>Link: https://api.mercadolibre.com/sites/MLB/#json</li>
+  <li>Link da API: https://api.mercadolibre.com/sites/MLB/#json</li>
   <li>Documentação: https://developers.mercadolivre.com.br/pt_br/produto-receba-notificacoes</li>
+  <li>Deploy: https://projeto-react-campinho-digital.netlify.app/</li>
 </ul>
 
 ## Layout da Aplicaçao para telas em Desktops, Tablets e Mobile.
@@ -59,53 +60,6 @@ O projeto em React com styled components e API's do Mercado Livre é uma aplica�
 
 Local: http://localhost:3000 <br/>
 On Your Network: http://192.168.0.9:3000
-
-<span>Observações:</span>
-
-`npm start`
-
-<p>
-  Executa o aplicativo no modo de desenvolvimento.\
-  Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
-</p>
-
-<p>
-  A página será recarregada quando você fizer alterações.\
-Você também pode ver erros de lint no console. 
-</p>
-
-`npm test`
-
-<p>
-  Inicia o executor de teste no modo de observação interativo.\
-Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
-</p>
-
-`npm run build`
-
-<p>
-Cria o aplicativo para produção na pasta `build`.\
-Ele empacota corretamente o React no modo de produção e otimiza a compilação para obter o melhor desempenho.
-</p>
-
-<p>
-  A compilação é minificada e os nomes dos arquivos incluem os hashes.\
-Seu aplicativo está pronto para ser implantado!
-</p>
-
-`npm run eject`
-
-<span>
-  Nota: esta é uma operação unidirecional. Depois de 'ejetar', você não pode voltar!\*\*
-</span>
-
-<p>
-  Se você não estiver satisfeito com a ferramenta de construção e opções de configuração, você pode `ejetar` a qualquer momento. Este comando removerá a dependência de compilação única do seu projeto.
-</p>
-
-<p>
-  Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente para o seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto `eject`, ainda funcionarão, mas apontarão para os scripts copiados para que você possa ajustá-los. Neste ponto você está por conta própria.
-</p>
 
 
 ### Layout da Aplicaçao para telas em Desktops, Tablets e Mobile.
