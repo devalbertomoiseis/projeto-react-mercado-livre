@@ -27,13 +27,12 @@ O projeto em React com styled components e API's do Mercado Livre é uma aplica�
   <li>Deploy: https://projeto-react-campinho-digital.netlify.app/</li>
 </ul>
 
-## Layout da Aplicaçao para telas em Desktops, Tablets e Mobile.
+## Funções do Projeto
 
- - Listagem de Produtos;
- - Pesquisa de Produtos usando palavras-chave de acordo com as informações da API's do Mercado Livre;
- - Adição ao Carrinho;
- - Remoção do Carrinho;
-  
+- Listagem de Produtos;
+- Pesquisa de Produtos usando palavras-chave de acordo com as informações da API's do Mercado Livre;
+- Adição ao Carrinho;
+- Remoção do Carrinho;
 
 ## Método de uso da aplicação:
 
@@ -60,7 +59,6 @@ O projeto em React com styled components e API's do Mercado Livre é uma aplica�
 
 Local: http://localhost:3000 <br/>
 On Your Network: http://192.168.0.9:3000
-
 
 ### Layout da Aplicaçao para telas em Desktops, Tablets e Mobile.
 
